@@ -1,0 +1,7 @@
+@import "_mixins/font-face";
+
+@include font-face("MuseoSans", "../fonts/MuseoSansBlack/MuseoSansBlack", 900);
+@include font-face("MuseoSans", "../fonts/MuseoSansBold/MuseoSansBold", 700);
+@include font-face("MuseoSans", "../fonts/MuseoSansLight/MuseoSansLight", 100);
+@include font-face("MuseoSans", "../fonts/MuseoSansMedium/MuseoSansMedium", 500);
+@include font-face("MuseoSans", "../fonts/MuseoSansRegular/MuseoSansRegular", 300);
